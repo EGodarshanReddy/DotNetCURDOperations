@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SupabaseCrudApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b3da5a221a249dede9535cb9694f35dca72a59b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SupabaseCrudApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SupabaseCrudApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
